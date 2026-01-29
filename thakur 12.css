@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/2209780577/photo/portrait-of-student-teenager-girl-holding-textbooks-inside-classroom-library.jpg?s=612x612&w=0&k=20&c=NtvFDvQAlJmMuKdnn1lMOvoxOAF-Q20aygN3Av5zrkg=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+table{
+    color:black;
+    background-image: url("");
+    font-size: 85px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid color;
+    border-radius: 50px 50px;
+}
+
+h1{
+    font-size: 25px;
+    font-style:italic;
+}
+
+h1 a{
+    color: black;
+    text-decoration: none;
+}
+h2{
+    color: chocolate;
+    font-size: 75px;
+    font-style:italic;
+    width: 400px;
+    height: 100px;
+   border-radius: 50px 50px;
+}
+h3{
+    font-size: 35px;
+    font-style:italic;
+}
+h3 a {
+    color: black;
+    text-decoration: none;
+}

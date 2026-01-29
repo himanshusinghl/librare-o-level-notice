@@ -1,0 +1,81 @@
+body {
+    background-image: url("https://st.depositphotos.com/1006753/1445/i/450/depositphotos_14457971-stock-photo-beautiful-female-student-in-a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    font-size: 25px;
+    font-style: italic;
+}
+
+h1 a {
+    color:black;
+    text-decoration: none;
+}
+
+h2 {
+    color:gold;
+    font-size: 60px;
+    font-style: italic;
+    width: 400px;
+    height: 100px;
+    border-radius: 50px 50px;
+}
+
+table {
+    color:white;
+    background-image: url("");
+    font-size: 85px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid color;
+    border-radius: 50px 50px;
+}
+
+
+h3 {
+    color:black;
+    font-size: 35px;
+    font-style: italic;
+}
+
+h3 a {
+    color:white;
+    text-decoration: none;
+}
+
+h4 {
+    color:black;
+    font-size: 35px;
+    font-style: italic;
+
+}
+
+h4 a {
+    color:white;
+    text-decoration: none;
+}
+
+h5 {
+    color:black;
+    font-size: 35px;
+    font-style: italic;
+}
+
+h5 a {
+    color:white;
+    text-decoration: none;
+}
+
+h6 {
+    color:black;
+    font-size: 35px;
+    font-style: italic;
+}
+
+h6 a {
+    color:white;
+    text-decoration: none;
+}

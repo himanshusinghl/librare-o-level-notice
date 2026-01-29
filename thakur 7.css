@@ -1,0 +1,68 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1217529195/photo/young-girl-looking-for-book-on-bookshelf-in-library.jpg?s=612x612&w=0&k=20&c=YPPAv3lT0W15grqJtigvVyTbNDIhHez1WwQdTu3ccmk=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+table{
+    font-size: 85px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid color;
+    border-radius: 50px 50px;
+}
+
+h2{
+    color:black;
+    font-size: 50px;
+    font-style:italic;
+    color: gold;
+    width: 400px;
+    height: 100px;
+   border-radius: 50px 50px;
+}
+
+
+
+h1{
+    color: white;
+    font-size: 25px;
+    font-style:italic;
+}
+
+h1 a{
+    color: white;
+    text-decoration: none;
+}
+
+h3{
+    color: black;
+    font-size: 35px;
+    font-style:italic;
+}
+h3 a {
+    color: white;
+    text-decoration: none;
+}
+h4{
+    color: black;
+    font-size: 35px;
+    font-style:italic;
+  
+}
+h4 a {
+    color: white;
+    text-decoration: none;
+}
+h5{
+    color: black;
+    font-size: 35px;
+    font-style:italic;}
+
+    h5 a {
+    color: white;
+    text-decoration: none;
+}
+
