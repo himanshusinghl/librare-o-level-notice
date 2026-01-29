@@ -1,0 +1,77 @@
+<html>
+<body>
+<head>
+    <title>
+        WORKSPACE
+    </title>        
+</head>
+<link rel="stylesheet" href="C:\Users\himan\Desktop\Project Librare\style\thakur 1.css">
+<body>
+    <script>
+        function data()
+        {
+            var a=document.getElementById("n1").value;
+            var b=document.getElementById("n2").value;
+
+            if(a==""||b==""||a!="himanshu.singh@gmail.com")
+            {
+              alert ("please enter valid username ,fill all coloru");
+              return false;
+            }
+            else{
+                true;
+            }
+
+
+
+
+             if(b.length>8||b.length<8||b!="12345678")
+            {
+              alert("please enter valid password with 8 no ");
+              return false;
+            }
+            else{
+                window.location.href="thakur 6.html"
+
+            }
+            }
+
+        </script>
+        <div align="center"> 
+        <table border="9" cellspacing="80" cellpadding="80" width="65" height="65">
+            <tr><th>
+                <form onsubmit="return data()" action="thakur 3.html">
+            <h1>
+                <marquee>LOGIN PAGE</marquee>
+                </h1>
+                <h2>
+                <br>
+                <br>
+                <label > USERNAME /EMAIL ID</label>
+                <br>
+                <br>
+                <input type ="text" name="name" placeholder="username/email id" id="n1" required>
+                <br>
+                <br>
+                <label>PASSWORD</label>
+                <br>
+                <br>
+                <input type="password " name="password" placeholder="Enter password" id="n2" required>
+                <br>
+                </h2>
+                    <h3>
+                    <div align ="right">
+                    <a class="color" href="thakur 2.html"> <b> Create New Account</b></a>
+                    </div>
+                    </h3>
+                    <a class="style" href="thakur 3.html">
+                        <button>SUBMIT</button>
+                </a>
+                <br>
+                <br>
+                </form>
+                </th></tr> 
+                </table>
+                </div>
+</body>
+</html>
