@@ -1,0 +1,65 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1270033513/photo/searching-books-in-the-library.jpg?s=612x612&w=0&k=20&c=dl0lPUNj2OioONcmEkJjDCMkSkUNQL8gTdRw_QIVrNc=");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+h2{
+    color: gold;
+    font-size: 75px;
+    font-style:italic;
+    width: 400px;
+    height: 100px;
+   border-radius: 50px 50px;
+}
+table{
+    font-size: 85px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid color;
+    border-radius: 50px 50px;
+}
+
+
+
+
+h1{
+    font-size: 25px;
+    font-style:italic;
+}
+
+h1 a{
+    color: gold;
+    text-decoration: none;
+}
+
+h3{
+    color: gold;
+    font-size: 35px;
+    font-style:italic;
+}
+h3 a {
+    color: white;
+    text-decoration: none;
+}
+h4{
+    color: gold;
+    font-size: 35px;
+    font-style:italic;
+  
+}
+h4 a {
+    color: white;
+    text-decoration: none;
+}
+h5{
+    color: gold;
+    font-size: 35px;
+    font-style:italic;}
+
+    h5 a {
+    color: white;
+    text-decoration: none;
+}
+

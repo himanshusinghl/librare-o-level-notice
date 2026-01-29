@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://d1fufvy4xao6k9.cloudfront.net/images/blog/posts/2024/05/header_image/hockerty_capture_an_image_of_a_vintage_library_with_towering__5b155e10-bdcc-41df-aeea-f37f16fb32fc_3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 25px;
+    font-style:italic;
+}
+
+h1 a{
+    color:white;
+    text-decoration: none;
+}
+h2{
+    color: gold ;
+    font-size: 75px;
+    font-style:italic;
+    width: 400px;
+    height: 100px;
+   border-radius: 50px 50px;
+}
+table{
+    color:gold;
+    background-image: url("");
+    font-size: 85px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid color;
+    border-radius: 50px 50px;
+}
+ h3{
+    color:white;
+    font-size: 35px;
+    font-style:italic;
+}
+h3 a {
+    color:white;
+    text-decoration: none;
+}

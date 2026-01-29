@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-girl-study-library_1157-22217.jpg");
+    background-repeat: none ;
+    background-size: cover;
+    
+}
+
+
+h1{
+    color: black;
+    font-size: 70px;
+    font-style:italic;
+}
+
+
+table{
+    color:gold;
+    background-image: url("");
+    border-radius: 50px 50px;
+    border: 2px solid color;
+    font-size: 85px;
+    width: 50px;
+    height: 50px;
+}
+
+input {
+    border-radius: 30px 30px ;
+    font-size: 25px;
+}
+
+
+h2{
+    color:black;
+    font-size: 25px;
+    font-style:italic;
+}
+
+h3{
+     color: black;
+    font-size: 30px;
+    font-style:italic;
+}
+h3 a{
+    color: black;
+}
